@@ -17,11 +17,17 @@ We are also open to any ideas for improvements!
 Table of Contents
 </h2>
 
-[toc]
+
+- [Awesome Uncertainty in Deep learning](#awesome-uncertainty-in-deep-learning)
+- [Papers](#papers)
+  - [Miss-modality synthesis](#miss-modality-synthesis)
+  - [Datasets](#datasets)
+  - [Lectures-and-tutorials](#lectures-and-tutorials)
+  - [Other-resources](#other-resources)
 
 # Papers
 
-## Miss-modality synthesis
+## Miss-modality-synthesis
 
 **Published**
 + Multi-modal Modality-masked Diffusion Network for Brain MRI Synthesis with Random Modality Missing [[TMI, 2024]](https://ieeexplore.ieee.org/document/10444695)
@@ -38,10 +44,12 @@ Table of Contents
 **Miss-modality analysis**
 
 + Multi-modal Learning with Missing Modality via Shared-Specific Feature Modelling [[CVPR,2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multi-Modal_Learning_With_Missing_Modality_via_Shared-Specific_Feature_Modelling_CVPR_2023_paper.pdf)
-## Datasets and Surverys
+## Datasets
 
-## Lectures and tutorials
+## Surverys
+
+## Lectures-and-tutorials
 
 + [webset]
 
-## Other Resources
+## Other-resources
